@@ -1,0 +1,15 @@
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\obj\Debug\netcoreapp3.1\hello_world.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\obj\Debug\netcoreapp3.1\hello_world.Form1.resources
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\obj\Debug\netcoreapp3.1\hello_world.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\obj\Debug\netcoreapp3.1\hello_world.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\obj\Debug\netcoreapp3.1\hello_world.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\obj\Debug\netcoreapp3.1\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\bin\Debug\netcoreapp3.1\hello_world.exe
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\bin\Debug\netcoreapp3.1\hello_world.deps.json
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\bin\Debug\netcoreapp3.1\hello_world.runtimeconfig.json
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\bin\Debug\netcoreapp3.1\hello_world.runtimeconfig.dev.json
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\bin\Debug\netcoreapp3.1\hello_world.dll
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\bin\Debug\netcoreapp3.1\hello_world.pdb
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\obj\Debug\netcoreapp3.1\hello_world.dll
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\obj\Debug\netcoreapp3.1\hello_world.pdb
+C:\Users\xavie\OneDrive\Documentos\Curso C#\hello_world\hello_world\obj\Debug\netcoreapp3.1\hello_world.genruntimeconfig.cache

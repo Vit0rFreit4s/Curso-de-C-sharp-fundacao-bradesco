@@ -1,0 +1,15 @@
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.Form1.resources
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.exe
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.deps.json
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.runtimeconfig.json
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.runtimeconfig.dev.json
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.dll
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\bin\Debug\netcoreapp3.1\Variavel.pdb
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.dll
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.pdb
+C:\Users\xavie\OneDrive\Documentos\Curso C#\Variavel\Variavel\obj\Debug\netcoreapp3.1\Variavel.genruntimeconfig.cache
